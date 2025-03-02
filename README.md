@@ -57,7 +57,7 @@ This project is open-source and available under the **MIT License**.
 ---
 
 ## ✨ Author
-Developed by **Jithinlal K R** 🚀  
+Developed by **Jithin** 🚀  
 📧 Contact: jithinjzx@gmail.com  
 🔗 Portfolio: [jithinr.vercel.app](https://jithinr.vercel.app)  
 🔗 LinkedIn: [in/jithin-kr](https://linkedin.com/in/jithin-kr)
