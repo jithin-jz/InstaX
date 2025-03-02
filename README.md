@@ -31,16 +31,7 @@ Ensure you have Python installed (recommended version: **Python 3.8+**). Then, i
 pip install -r requirements.txt
 ```
 
-### **3️⃣ Configure Your Instagram Credentials**
-Create a `.env` file inside the project folder and add:
-```ini
-INSTAGRAM_USERNAME=your_username
-INSTAGRAM_PASSWORD=your_password
-```
-(⚠️ **Note**: Using a separate account for automation is recommended to avoid bans.)
-
 ---
-
 ## ▶️ Usage
 Run the bot using:
 ```sh
