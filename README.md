@@ -1,4 +1,4 @@
-# igbot
+# InstaX
 
 ## 📌 Introduction
 `igbot` is an Instagram bot designed to automate interactions on Instagram. It helps with liking posts, following/unfollowing users, and performing other automation tasks using Python.
